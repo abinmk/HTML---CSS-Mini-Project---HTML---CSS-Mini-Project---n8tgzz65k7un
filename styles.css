@@ -11,7 +11,7 @@ th, td {
 tr:hover {background-color: coral;}
 iframe {
   width: 100% !important;
-  height: auto !important;
+  height: 100%!important;
 }
 .center {
   margin-left: auto;
