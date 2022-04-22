@@ -15,4 +15,7 @@ iframe {
   margin-left: auto;
   margin-right: auto;
 }
+.subtext{
+  font-family: Georgia, serif;
+}
 body {background-color: rgb(66, 190, 235);}
