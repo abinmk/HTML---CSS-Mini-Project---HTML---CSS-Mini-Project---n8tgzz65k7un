@@ -3,7 +3,14 @@ table {
   table-layout: auto;
   width: 180px;
 }
+th, td {
+  padding: 15px;
+}
 iframe {
   width: 100% !important;
   height: auto !important;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
 }
