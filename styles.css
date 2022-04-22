@@ -1,6 +1,7 @@
 table {
   table-layout: auto;
   padding: 35px;
+  width:100%;
 }
 iframe {
   width: 100% !important;
