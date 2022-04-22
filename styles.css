@@ -2,6 +2,7 @@ table {
   padding:50px;
   width:100%;
 }
+tr:hover {background-color: coral;}
 iframe {
   width: 100% !important;
   height: auto !important;
