@@ -21,8 +21,8 @@ th, td {
   text-align:left;font-family: Arial,Helvetica,sans-serif;
 }
 .split {
-  align:left;
- height:100%
+  align:center;
+ height:90%
   width: 100%;
   position: fixed;
   overflow-y:auto;
