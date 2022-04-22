@@ -4,6 +4,9 @@ table {
   align:center;
 
 }
+.footer{
+  backgroung color:orange;
+}
 th, td {
   padding:5px;
 }
