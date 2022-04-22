@@ -2,9 +2,6 @@ table {
   padding: 35px;
   width:100%;
 }
-th {
-  height: auto;
-}
 iframe {
   width: 100% !important;
   height: auto !important;
