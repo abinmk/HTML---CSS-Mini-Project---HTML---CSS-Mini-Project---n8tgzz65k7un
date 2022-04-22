@@ -1,9 +1,5 @@
 table {
-  border: 1px solid;
   table-layout: auto;
-    width: 100%;
-}
-th, td {
   padding: 15px;
 }
 iframe {
@@ -14,4 +10,4 @@ iframe {
   margin-left: auto;
   margin-right: auto;
 }
-body {background-color: coral;}
+body {background-color: rgb(66, 190, 235);}
