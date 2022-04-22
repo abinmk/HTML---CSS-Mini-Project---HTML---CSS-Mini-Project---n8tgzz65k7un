@@ -1,6 +1,7 @@
 table {
   width:70%;
   align:center;
+  border-spacing:10px;
 }
 th, td {
   padding-top: 10px;
@@ -8,7 +9,7 @@ th, td {
   padding-left:20px;
   padding-right:20px;
 }
-tr:hover {background-color: grey;}
+
 iframe {
   width: 100% !important;
   height: 100%!important;
