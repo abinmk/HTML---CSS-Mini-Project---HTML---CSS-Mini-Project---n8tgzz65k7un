@@ -5,11 +5,12 @@ body {
 
 .split {
   height: 100%;
-  width: 50%;
+  width: 45%;
   position: fixed;
   z-index: 1;
   overflow-x: hidden;
   padding-top: 10px;
+  padding-right: 10px;
   color: #07110e;
 }
 
@@ -19,7 +20,7 @@ body {
 }
 
 .right {
-  right:20px;
+  right:0;
 }
  
 
