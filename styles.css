@@ -37,7 +37,10 @@ body {
   image-rendering:optimizeQuality;
   
   }
-  
+  .alert
+  {
+      display: none;
+  }
   table{
     width:100%;
     padding-left: 10px;
@@ -96,5 +99,9 @@ body {
     position: absolute;
     width:90%;
       }
+      div.alert{
+        display: contents;  
+      }
 
 }
+
