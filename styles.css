@@ -43,7 +43,7 @@ body {
     padding-left: 10px;
   }
   
-  body {background-color: rgb(190, 241, 248);font-family: Arial,Helvetica,sans-serif;}
+  body {background-color: rgb(213, 247, 252);font-family: Arial,Helvetica,sans-serif;}
   .tabs {
     
     display: -webkit-box;
@@ -87,3 +87,14 @@ body {
   }
   .tabs input[type="radio"]:checked + label { background: #0cffdf; border-radius: 45px;}
   .tabs input[type="radio"]:checked + label + .tab { display: block; }
+
+  @media screen and (max-width: 700px) {
+    div.right {
+      display: none;
+    }
+    div.left {
+    position: absolute;
+    width:90%;
+      }
+
+}
