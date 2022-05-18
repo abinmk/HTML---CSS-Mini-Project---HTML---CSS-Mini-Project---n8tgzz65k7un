@@ -105,5 +105,12 @@ body {
         display: contents;  
       }
 
+      body {
+        font-family: Arial;
+        background-color: bisque;
+        color: rgb(19, 12, 12);
+      }
+
+
 }
 
